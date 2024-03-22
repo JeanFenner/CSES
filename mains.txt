@@ -1,0 +1,25 @@
+#include <iostream>
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+
+    return 0;
+}
+
+using ll = long long
+
+ios::sync_with_stdio(0);
+cin.tie(0);
+
+/*
+(a+b) mod m = (a mod m + b mod m) mod m
+(a-b) mod m = (a mod m - b mod m) mod m
+(a*b) mod m = (a mod m * b mod m) mod m
+mod = %
+
+g++ -std=c++11 -o2 -Wall
+
+*/
